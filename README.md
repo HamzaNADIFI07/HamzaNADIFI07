@@ -1,24 +1,27 @@
-- 👋 Hello and welcome!
+# 👋 Hello and welcome!
 I am a computer science student at the University of Lille, passionate about web development and innovative technologies. I am currently looking for an apprenticeship to apply my skills and deepen my knowledge.  
-_ 💻 Current skills:
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-</p>
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 💻 Current skills:
+![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![JAVA](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk&logoColor=orange)
+![PYTHON](https://img.shields.io/badge/PYTHON-black?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C)
+![MYSQL](https://img.shields.io/badge/MYSQL-black?style=for-the-badge&logo=mysql)
+![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)
 
-<!---
-HamzaNADIFI07/HamzaNADIFI07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![NODE.JS](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)
+![REACT](https://img.shields.io/badge/REACT-black?style=for-the-badge&logo=react)
 
+![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-blue?style=for-the-badge&logo=visual-studio-code&color=black)
+![ECLIPSE](https://img.shields.io/badge/ECLIPSE-black?style=for-the-badge&logo=eclipse&logoColor=purple)
+![Emacs](https://img.shields.io/badge/EMACS-black?style=for-the-badge&logo=gnu%20emacs)
+![IntelliJIDEA](https://img.shields.io/badge/IntelliJIDEA-black?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=orange)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Hamza_NADIFI-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hamza-nadifi-18840a1a9/)](https://www.linkedin.com/in/hamza-nadifi-18840a1a9/)
-[![Gmail Badge](https://img.shields.io/badge/-nadifihamza07-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nadifihamza07@gmail.com)](mailto:nadifihamza07@gmail.com)
+![GITLAB](https://img.shields.io/badge/GITLAB-black?style=for-the-badge&logo=gitlab)
+![GITHUB](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github)
+![MARKDOWN](https://img.shields.io/badge/MARKDOWN-black?style=for-the-badge&logo=markdown)
 
+# In training / development:
+![HASKELL](https://img.shields.io/badge/HASKELL-black?style=for-the-badge&logo=haskell&logoColor=purple)
 
