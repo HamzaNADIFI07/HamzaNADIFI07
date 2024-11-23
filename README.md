@@ -13,7 +13,6 @@ You can click the Preview link to take a look at your changes.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Hamza_NADIFI-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hamza-nadifi-18840a1a9/)](https://www.linkedin.com/in/hamza-nadifi-18840a1a9/)
-
 [![Gmail Badge](https://img.shields.io/badge/-nadifihamza07-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nadifihamza07@gmail.com)](mailto:nadifihamza07@gmail.com)
 
 
