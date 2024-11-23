@@ -1,5 +1,11 @@
-- 👋 Hi, I’m @HamzaNADIFI07
-- 👀 I’m interested in ...
+- 👋 Hello and welcome!
+I am a computer science student at the University of Lille, passionate about web development and innovative technologies. I am currently looking for an apprenticeship to apply my skills and deepen my knowledge.
+_ 💻 Current skills:
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
