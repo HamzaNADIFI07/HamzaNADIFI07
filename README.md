@@ -1,5 +1,5 @@
 - 👋 Hello and welcome!
-I am a computer science student at the University of Lille, passionate about web development and innovative technologies. I am currently looking for an apprenticeship to apply my skills and deepen my knowledge.
+I am a computer science student at the University of Lille, passionate about web development and innovative technologies. I am currently looking for an apprenticeship to apply my skills and deepen my knowledge.  
 _ 💻 Current skills:
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
