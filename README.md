@@ -1,3 +1,4 @@
+![](https://github.com/HamzaNADIFI07/HamzaNADIFI07/blob/893fcde230818564acbafedbe97e70082d1a84ba/Design%20sans%20titre.gif)
 # 👋 Hello and welcome!
 I am a computer science student at the University of Lille, passionate about web development and innovative technologies. I am currently looking for an apprenticeship to apply my skills and deepen my knowledge.  
 # 💻 Current skills:
