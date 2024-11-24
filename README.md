@@ -23,6 +23,10 @@ I am a computer science student at the University of Lille, passionate about web
 ![GITHUB](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github)
 ![MARKDOWN](https://img.shields.io/badge/MARKDOWN-black?style=for-the-badge&logo=markdown)
 
-# In training / development:
+# Languages and technologies in training and development:
 ![HASKELL](https://img.shields.io/badge/HASKELL-black?style=for-the-badge&logo=haskell&logoColor=purple)
+
+# Training in progress:
+![PIX](https://img.shields.io/badge/PIX-black?style=for-the-badge&labelColor=white)
+
 
