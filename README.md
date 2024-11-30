@@ -28,6 +28,8 @@ I am a computer science student at the University of Lille, passionate about web
 
 # Training in progress:
 [![PIX](https://img.shields.io/badge/PIX-black?style=for-the-badge&labelColor=white)](https://pix.fr/)
+![META](https://img.shields.io/badge/Meta%20Front--End%20Developer%20Professional%20Certificate-Black?style=for-the-badge&logo=Meta&labelColor=blue&color=black)
+
 
 # Projects:
 | Projects                               | Languages used                                                                                     | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Demo                              |
