@@ -1,6 +1,6 @@
 ![](https://github.com/HamzaNADIFI07/HamzaNADIFI07/blob/566b34676390f3df4fbf1a9d9cd62db5660b1c32/profil.gif)
 # 👋 Hello and welcome!
-I am a computer science student at the University of Lille, passionate about web development and innovative technologies. I am currently looking for an apprenticeship to apply my skills and deepen my knowledge.  
+I am a computer science student at EFREI PARIS, passionate about web development and innovative technologies.
 # 💻 Current skills:
 ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=blue)
